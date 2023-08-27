@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: green;
+    color: blanchedalmond;
+}
+
+.botones {
+display: flex;
+justify-content: center;
+padding: auto;
+
+}
+
+.botones  p {
+    margin: 5px;
+    padding: 5px;
+    
+    }
